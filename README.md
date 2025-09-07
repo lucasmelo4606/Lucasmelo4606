@@ -9,7 +9,7 @@
 
 
 
-  <div style="display: inline_block">
+  <div style="display: flex">
  <h2> Skills 💻 </h2>
   <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
@@ -33,12 +33,13 @@
 
 
 ## Estatistica 📈
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaoopeedro&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoopeedro&layout=compact&theme=tokyonight)
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasmelo4606&show_icons=true&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasmelo4606&layout=compact&theme=tokyonight)
 
 ## Contatos ✉️
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/juliaathar/](https://www.linkedin.com/in/joao-pedro-ribeiro-085490222/))
-  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedronr37@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/juliaathar/]([https://www.linkedin.com/in/joao-pedro-ribeiro-085490222/](https://www.linkedin.com/in/lucas-melo-de-sousa-b87053239/)))
+  
+  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmelo4606@gmail.com)
    <a href="https://instagram.com/011_jotape_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
