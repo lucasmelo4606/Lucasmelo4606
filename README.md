@@ -37,7 +37,8 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasmelo4606&layout=compact&theme=tokyonight)
 
 ## Contatos ✉️
-  <a [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/juliaathar/](https://www.https://www.linkedin.com/in/lucas-melo-de-sousa-b87053239/))"></a>
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-melo-de-sousa-b87053239/)
+
 
   
 
