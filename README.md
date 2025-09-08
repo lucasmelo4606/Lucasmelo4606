@@ -42,7 +42,7 @@
 
 
 <p align="center">
-  <a href="www.linkedin.com/in/lucas-melo-b87053239/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-melo-b87053239/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lucasmelo4606@gmail.com" target="_blank">
@@ -52,7 +52,6 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake-dark.svg">
